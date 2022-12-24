@@ -2,6 +2,7 @@
 
 const Ninjas = (props) =>{
     console.log(props);
+    console.log("hello");
     return(
         <div>
             <div>Name: Ryu</div>

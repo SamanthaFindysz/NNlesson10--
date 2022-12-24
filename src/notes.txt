@@ -1,0 +1,7 @@
+In github, changes must be:
+    -staged (git add -A)
+    -commited (git commit -m "")
+    -pushed (git push)
+To access this file on a web browser:
+    cd myapp
+    npm start 

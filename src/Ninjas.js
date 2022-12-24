@@ -1,8 +1,6 @@
 //import React, {Component} from 'react';
 
-const Ninjas = (props) =>{
-    console.log(props);
-    console.log("hello");
+const Ninjas = () =>{
     return(
         <div>
             <div>Name: Ryu</div>
